@@ -2,6 +2,8 @@ ieHTML5.js
 ==========
 
 Simple Patch to enable HTML elements in IE<9
+
+You can download the latest version [here](https://github.com/manngo/ieHTML5.js/releases/latest) …
 	
 Instructions
 ------------
